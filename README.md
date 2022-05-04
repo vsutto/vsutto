@@ -1,16 +1,18 @@
-### Hi there 👋
+Olá, me chamo Victor Sutto. Tive a ideia de começar a estudar a área de denvolvimento em Outubro de 2022. Meu primeiro emprego na área foi em novembro 2022. Embora não tenha sido registrado como programador por não ter ensino superior (ainda).
 
-<!--
-**vsutto/vsutto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Link do meu Linkedin: https://www.linkedin.com/in/victor-sutto/
 
-Here are some ideas to get you started:
+Vamos nos conectar? 👋 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Descobrindo Arduíno e tendando desenvolver um projeto IOT.  
+- 🌱 Estudando "C".
+
+
+
+<div>
+	<a href="https://beacons.ai/vsutto">
+	<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=vsutto&show_icons=true&theme=dark"/>
+
+	<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsutto&layout=compact&langs_count=16&theme=dark"/>
+</div>
