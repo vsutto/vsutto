@@ -4,15 +4,12 @@ Link do meu Linkedin: https://www.linkedin.com/in/victor-sutto/
 
 Vamos nos conectar? 👋 
 
-
 - 🔭 Descobrindo Arduíno e tendando desenvolver um projeto IOT.  
 - 🌱 Estudando "C".
 
 
-
 <div>
-	<a href="https://beacons.ai/vsutto">
 	<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=vsutto&show_icons=true&theme=dark"/>
 
-	<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsutto&layout=compact&langs_count=16&theme=dark"/>
+
 </div>
