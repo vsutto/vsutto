@@ -3,9 +3,8 @@ Olá, me chamo Victor Sutto. Tive a ideia de começar a estudar a área de denvo
 Link do meu Linkedin: https://www.linkedin.com/in/victor-sutto/
 
 Vamos nos conectar? 👋 
-
-- 🔭 Descobrindo Arduíno e tentando desenvolver um projeto IOT.  
-- 🌱 Estudando "C".
+  
+- 🌱 Estudando "Salesforce".
 
 
 <div>
